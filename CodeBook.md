@@ -32,5 +32,5 @@ me_st_col - variable that stores the T/F for columns that contain "mean" or "std
 clean - final data set, which saves only the relevant columns<br>
 final - final data set for question #5 where we apply the mean function to the data set on subjet and action <br>
 
-##Version
+## Version
 R version 3.5.1 (2018-07-02) <br>
